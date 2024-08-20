@@ -1,0 +1,28 @@
+#main-div{
+    background-color: rgba(255, 255, 255, 0.174);
+}
+#main-public{
+    background-color: rgba(255, 255, 255, 0.386);
+    border-radius: 10px 0px 0px 0px;
+}
+#main-public1{
+    background-color: rgba(255, 255, 255, 0.386);
+    border-radius: 0px 10px 0px 0px;
+}
+#main-public1:hover{
+    background-color: white;
+}
+#main-public:hover{
+    background-color: white;
+}
+#main-lisk{
+    border-radius: 0px 10px 10px 10px;
+}
+#side{
+    border-right: 2px solid rgba(0, 0, 0, 0.082);
+    height: 30px;
+}
+#side1{
+    border-right: 2px solid rgba(0, 0, 0, 0.13);
+     height: 30px;
+}
